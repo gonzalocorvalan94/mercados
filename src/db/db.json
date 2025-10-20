@@ -1,0 +1,53 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Alimentos"
+    },
+    {
+      "id": 2,
+      "nombre": "Electrónica"
+    },
+    {
+      "id": 3,
+      "nombre": "Ropa"
+    }
+  ],
+  "vendedores": [
+    {
+      "id": 1,
+      "nombre": "SuperMarket"
+    },
+    {
+      "id": 2,
+      "nombre": "TechZone"
+    },
+    {
+      "id": 3,
+      "nombre": "ModaTotal"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Arroz 1kg",
+      "precio": 800,
+      "categoriaId": 1,
+      "vendedorId": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Camiseta deportiva",
+      "precio": 4500,
+      "categoriaId": 3,
+      "vendedorId": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Mouse inalámbrico",
+      "precio": 5200,
+      "categoriaId": 2,
+      "vendedorId": 2
+    }
+  ]
+}
